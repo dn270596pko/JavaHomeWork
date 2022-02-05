@@ -1,9 +1,9 @@
-package com.pb.pankov.hw6;
+package com.pb.hw6;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class VetСlinic {
+public class VetClinic {
     public static void main(String[] args) {
         List<Animal> animals = new ArrayList<>();
 

@@ -1,4 +1,4 @@
-package com.pb.pankov.hw6;
+package com.pb.hw6;
 import java.util.Objects;
 
 public class Dog extends Animal{
