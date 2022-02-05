@@ -1,4 +1,4 @@
-package com.pb.pankov.hw15;
+package com.pb.hw15;
 
 import java.io.IOException;
 import java.io.PrintWriter;

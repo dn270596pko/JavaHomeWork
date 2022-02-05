@@ -1,4 +1,4 @@
-package com.pb.pankov.hw5;
+package com.pb.hw5;
 public class Book {
 
     public Book(String title, String author, String yearPublishing) {

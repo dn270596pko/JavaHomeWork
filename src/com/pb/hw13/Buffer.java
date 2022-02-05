@@ -1,4 +1,4 @@
-package com.pb.pankov.hw13;
+package com.pb.hw13;
 
 import java.util.*;
 

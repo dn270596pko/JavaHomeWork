@@ -1,4 +1,4 @@
-package com.pb.pankov.hw3;
+package com.pb.hw3;
 import java.util.Arrays;
 import java.util.Scanner;
 public class Array {

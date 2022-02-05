@@ -1,4 +1,4 @@
-package com.pb.lol.epam;
+package com.epam;
 
 public class This {
     public static void main(String[] args) {

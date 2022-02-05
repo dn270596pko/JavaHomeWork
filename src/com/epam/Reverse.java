@@ -1,4 +1,4 @@
-package com.pb.lol.epam;
+package com.epam;
 
 public class Reverse {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.pb.pankov.hw7;
+package com.pb.hw7;
 
 public class Pants extends Clothes implements MenClothes, WomenClothes {
     public Pants(Size size, String color, int price) {

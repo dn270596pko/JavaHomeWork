@@ -1,4 +1,4 @@
-package com.pb.pankov.hw5;
+package com.pb.hw5;
 public class Reader {
 
     public Reader(String fullName, String numberLibraryCard, String faculty, String dateBirth, String telephone) {

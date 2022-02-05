@@ -1,4 +1,4 @@
-package com.pb.pankov.hw2;
+package com.pb.hw2;
 import java.util.Scanner;
 
 public class Calculator {

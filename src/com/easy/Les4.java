@@ -1,4 +1,4 @@
-package com.pb.lol.easy;
+package com.easy;
 
 import java.lang.String;
 

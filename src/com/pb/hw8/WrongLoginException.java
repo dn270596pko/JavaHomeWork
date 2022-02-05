@@ -1,4 +1,4 @@
-package com.pb.pankov.hw8;
+package com.pb.hw8;
 
 public class WrongLoginException extends Exception {
 

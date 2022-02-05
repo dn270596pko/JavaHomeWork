@@ -1,8 +1,8 @@
-package com.pb.pankov.hw12;
+package com.pb.hw12;
 
 
-import com.pb.pankov.hw11.PhoneItem;
-import com.pb.pankov.hw11.PhoneItemField;
+import com.pb.hw11.PhoneItem;
+import com.pb.hw11.PhoneItemField;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

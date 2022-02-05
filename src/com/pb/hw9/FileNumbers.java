@@ -1,4 +1,4 @@
-package com.pb.pankov.hw9;
+package com.pb.hw9;
 
 import java.io.*;
 import java.nio.file.Files;
@@ -27,7 +27,7 @@ public class FileNumbers {
             }
         }
 
-        try (Writer writer = new FileWriter("src/com/pb/Pankov/hw9/numbers.txt")){
+        try (Writer writer = new FileWriter("src/com/pb/hw9/numbers.txt")){
             writer.write(numbersData.toString());
         } catch (Exception e) {
             e.printStackTrace();
@@ -35,11 +35,11 @@ public class FileNumbers {
     }
 
     public static void createOddNumbersFile() {
-        Path path = Paths.get("src/com/pb/Pankov/hw9/numbers.txt");
+        Path path = Paths.get("src/com/pb/hw9/numbers.txt");
         StringBuilder oddNumbers = new StringBuilder();
 
         try (BufferedReader reader = Files.newBufferedReader(path);
-             Writer writer = new FileWriter("src/com/pb/Pankov/hw9/odd-numbers.txt")) {
+             Writer writer = new FileWriter("src/com/pb/hw9/odd-numbers.txt")) {
 
             while (reader.ready()) {
                 String[] numbers = reader.readLine().split(" ");

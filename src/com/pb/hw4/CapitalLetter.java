@@ -1,4 +1,4 @@
-package com.pb.pankov.hw4;
+package com.pb.hw4;
 import java.util.Scanner;
     public class CapitalLetter {
     public static void main(String[] args)

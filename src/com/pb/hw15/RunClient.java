@@ -1,4 +1,4 @@
-package com.pb.pankov.hw15;
+package com.pb.hw15;
 
 public class RunClient {
     public static void main(String[] args) {

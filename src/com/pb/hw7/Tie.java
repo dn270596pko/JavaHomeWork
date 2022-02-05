@@ -1,4 +1,4 @@
-package com.pb.pankov.hw7;
+package com.pb.hw7;
 
 public class Tie extends Clothes implements MenClothes {
     public Tie(Size size, String color, int price) {

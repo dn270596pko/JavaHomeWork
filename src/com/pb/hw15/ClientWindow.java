@@ -1,4 +1,4 @@
-package com.pb.pankov.hw15;
+package com.pb.hw15;
 
 import javax.swing.*;
 import java.awt.*;

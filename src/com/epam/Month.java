@@ -1,4 +1,4 @@
-package com.pb.lol.epam;
+package com.epam;
 import java.util.Scanner;
 public class Month {
     public static void main (String [] args){

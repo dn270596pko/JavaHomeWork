@@ -1,4 +1,4 @@
-package com.pb.pankov.hw10;
+package com.pb.hw10;
 
 public class NumBox<T extends Number> {
 

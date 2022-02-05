@@ -1,4 +1,4 @@
-package com.pb.pankov.hw7;
+package com.pb.hw7;
 
 public class Atelier {
     public static void main(String[] args) {

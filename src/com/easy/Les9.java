@@ -1,4 +1,4 @@
-package com.pb.lol.easy;
+package com.easy;
 
 public class Les9 {
     public static void main (String[] args){

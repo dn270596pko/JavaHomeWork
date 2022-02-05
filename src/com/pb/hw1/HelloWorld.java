@@ -1,4 +1,4 @@
-package com.pb.pankov.hw1;
+package com.pb.hw1;
 
 public class HelloWorld {
     public static void main(String[] args) {

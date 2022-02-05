@@ -1,4 +1,4 @@
-package com.pb.pankov.hw5;
+package com.pb.hw5;
 
 public class Library {
     public static void main(String[] args) {

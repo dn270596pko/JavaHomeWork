@@ -1,4 +1,4 @@
-package com.pb.pankov.hw6;
+package com.pb.hw6;
 
 public class Animal {
     protected String name;

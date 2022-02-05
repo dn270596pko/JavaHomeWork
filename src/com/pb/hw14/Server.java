@@ -1,4 +1,4 @@
-package com.pb.pankov.hw14;
+package com.pb.hw14;
 
 import java.io.*;
 import java.net.ServerSocket;

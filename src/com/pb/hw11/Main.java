@@ -1,4 +1,4 @@
-package com.pb.pankov.hw11;
+package com.pb.hw11;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
