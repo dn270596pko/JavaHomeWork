@@ -1,7 +1,7 @@
-package com.progacademy.homework;
+package com.progacademy.homework2;
 import java.util.Scanner;
 
-public class HomeWork_1 {
+public class HomeWork1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введите целое пятизначное число: ");

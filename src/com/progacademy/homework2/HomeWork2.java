@@ -1,6 +1,6 @@
-package com.progacademy.homework;
+package com.progacademy.homework2;
 
-public class HomeWork_2 {
+public class HomeWork2 {
     public static void main(String[] args) {
         double sideA = 0.3;
         double sideB = 0.4;
