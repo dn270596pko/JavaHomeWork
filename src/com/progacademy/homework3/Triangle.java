@@ -10,7 +10,7 @@ public class Triangle {
         double b = scanner.nextDouble();
         double c = scanner.nextDouble();
 
-        if (a + b > c || b + c > a || a + c > b) {
+        if (a + b > c && b + c > a && c + a > b) {
             System.out.println("Такой треугольник существует.");
         }
         else {
