@@ -8,8 +8,16 @@ public class WallPaper {
         System.out.println("Введите количество полос: ");
         int count = scanner.nextInt();
 
-        for (int i = 0; i < count; i++ ) {
-            System.out.println("***+++***+++***+++***");
+        for (int i = 0; i < 5; i++ ) {
+            for (int j = 0; j < count; j++) {
+
+                if (j % 2 == 0) {
+                    System.out.print("***");
+                } else {
+                    System.out.print("+++");
+                }
+            }
+            System.out.println();
         }
     }
 }
