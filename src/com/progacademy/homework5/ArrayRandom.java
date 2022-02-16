@@ -1,9 +1,9 @@
 package com.progacademy.homework5;
-
 import java.util.Arrays;
 
 public class ArrayRandom {
     public static void main(String[] args) {
+
         int[] array = new int [15];
 
         for (int i = 0; i < array.length; i++)
