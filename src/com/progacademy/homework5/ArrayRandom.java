@@ -7,7 +7,7 @@ public class ArrayRandom {
         int[] array = new int [15];
 
         for (int i = 0; i < array.length; i++)
-            array[i] = ((int) (Math.random() * 15));
+            array[i] = ((int) (Math.random() * 10));
 
         int[] bigArray = Arrays.copyOf(array, 30);
 

@@ -8,9 +8,10 @@ public class CountSymbol {
         System.out.println("Введите строку: ");
         String str = scanner.nextLine();
         int count = 0;
+        char[] t = str.toCharArray();
 
         for (int i = 0; i < str.length(); i++) {
-            if (str.charAt(i) == 'b') {
+            if (t[i] == 'b') {
                 count ++;
             }
         }
